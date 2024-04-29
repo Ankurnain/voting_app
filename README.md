@@ -13,4 +13,4 @@ screenshot : ![image](https://github.com/Ankurnain/voting_app/assets/90696788/2a
 
 3.creating pods by given yaml.file
 screenshot: ![image](https://github.com/Ankurnain/voting_app/assets/90696788/b015662d-1283-4bfa-a958-01d6351d0c96)
-
+4. all pods are runnings
