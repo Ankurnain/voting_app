@@ -2,6 +2,8 @@
 1.so first i delete all  iteam from my CLI by following below cmnds:
 
 kubectl delete all --all;
+
+
 cd $home
 yum install git -y
 git clone  https://github.com/ashishrpandey/example-voting-app
